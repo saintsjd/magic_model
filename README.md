@@ -1,4 +1,4 @@
-magic_models
+magic_model
 ============
 
 Smarter Python Data Models
