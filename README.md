@@ -10,6 +10,7 @@ Smarter Python Data Models
 * validation... is valid
 * Aware of changed fields and previous values
 * Based on Models from Backbone js
+* how to model relationships? 
 
 
 ```python
